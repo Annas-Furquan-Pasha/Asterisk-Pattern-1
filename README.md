@@ -3,8 +3,7 @@ A simple Asterisk pattern
 
 It is simple pattern of Asterisk in python
 
-For Example : for height = 4 the pattern is...
+For Example : for height = 2 the pattern is...
+
     *
    **
-  ***
- ****
