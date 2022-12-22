@@ -11,4 +11,4 @@ For Example : for height = 4 the pattern is...
  ****
  ```
  
- You can also view other repositries [Here] (github.com/Annas-Furquan-Pasha)
+ You can also view other repositries [Here](https://github.com/Annas-Furquan-Pasha?tab=repositories)
